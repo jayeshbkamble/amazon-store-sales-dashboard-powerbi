@@ -97,7 +97,27 @@ The goal was to **diagnose root causes**, surface **actionable insights**, and e
 ---
 
 ## 📸 Dashboard Preview
+![Dashboard Overview](amazon-store-sales-dashboard-powerbi.png)
 
-> *(Add screenshots of your Power BI dashboard here)*
 
-Example:
+---
+
+## 🎯 What I Learned
+
+- How to translate business problems into analytical questions  
+- Using AI tools to speed up dataset understanding  
+- Building executive-ready dashboards in Power BI  
+- Turning raw data into actionable business insights  
+
+---
+
+## 🙋 About Me
+
+Aspiring Data Analyst with hands-on experience in **Power BI, SQL, Excel, and AI-assisted analytics**.  
+Passionate about solving real-world business problems using data.
+
+📌 Open to internships and entry-level Data Analyst opportunities.
+
+---
+
+⭐ If you find this project useful, please **star the repository**!
