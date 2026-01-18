@@ -1,84 +1,103 @@
-# Amazon-Store-Sales-Dashboard-PowerBi
-**📊 Amazon Store Sales Dashboard (AI-Powered)**
+# 📊 Amazon Store Sales Dashboard (AI-Powered)
 
-**🚀 Project Overview**
+An end-to-end **Data Analytics & Business Intelligence project** built using **Power BI and AI tools** to analyze Amazon store sales, uncover hidden insights, and support data-driven decision-making.
 
-This project analyzes Amazon Store sales data to uncover revenue trends, profitability gaps, customer behavior, and regional performance using Power BI and AI tools.
+---
 
-The goal was to build an interactive, executive-ready dashboard that supports data-driven decision-making.
+## 🚀 Project Overview
 
-**🧠 Business Problem**
+This project focuses on analyzing Amazon Store sales data to identify:
+- Revenue and profit trends
+- High-performing and underperforming categories
+- Seasonal sales patterns
+- Customer segment and regional performance
 
-Amazon experienced:
+The final output is an **interactive Power BI dashboard** designed for leadership and business stakeholders.
 
-Uneven growth across categories and regions
+---
 
-Profit not scaling with sales
+## 🧠 Business Problem
 
-Hidden inefficiencies in certain product segments
+Amazon was experiencing:
+- Uneven growth across product categories and regions  
+- Profit not increasing proportionally with sales  
+- Hidden inefficiencies in certain segments  
 
-This dashboard helps leadership identify bottlenecks and growth opportunities.
+The goal was to **diagnose root causes**, surface **actionable insights**, and enable **strategic clarity**.
 
-**🛠 Tools & Technologies**
+---
 
-Power BI – Data modeling & dashboard creation
+## 🛠 Tools & Technologies
 
-Claude AI – Dataset exploration & insight generation
+- **Power BI** – Data modeling, DAX, and dashboard creation  
+- **Claude AI** – Dataset exploration and quick insight generation  
+- **Data Squirrel / Julius** – AI-assisted analytics  
+- **Excel / CSV** – Raw dataset  
+- **Gamma.app** – Presentation and storytelling  
 
-Data Squirrel / Julius – AI-assisted analysis
+---
 
-Excel / CSV – Raw dataset
+## 📂 Dataset Overview
 
-Gamma.app – Presentation storytelling
+- ~5,900+ transactions  
+- Multiple years of sales data  
+- Key fields:
+  - Sales
+  - Profit
+  - Category & Sub-Category
+  - Region & State
+  - Customer Segment
+  - Ship Mode
+  - Payment Mode
+  - Return Status
 
-**📂 Dataset**
+---
 
-~5,900+ transactions
+## 📈 Key KPIs Tracked
 
-Multiple years of sales data
+- Total Sales  
+- Total Profit  
+- Profit Margin  
+- Total Orders  
+- Total Products  
+- Return Rate  
+- Average Order Value  
 
-Fields include: Sales, Profit, Category, Sub-Category, Region, Segment, Ship Mode, Payment Mode
+---
 
-**📈 Key KPIs**
+## 📊 Dashboard Features
 
-Total Sales
+- KPI cards for quick performance overview  
+- Sales by Category & Sub-Category analysis  
+- Seasonal sales trend (monthly & yearly)  
+- Sales vs Profit comparison by quarter  
+- Regional & state-wise sales analysis  
+- Customer segment, ship mode & payment mode breakdown  
+- Interactive slicers for region and state filtering  
 
-Total Profit
+---
 
-Profit Margin
+## 🔍 Key Insights
 
-Total Orders
+- 📌 **Technology** category has the highest profit margin  
+- ⚠ **Furniture** shows strong sales but very low profitability  
+- 📈 Sales peak during **Q4 (Oct–Dec)** indicating seasonality  
+- 🧑 **Consumer segment** contributes the largest share of revenue  
+- 📦 Return rate is ~6.5%, with scope for optimization  
 
-Return Rate
+---
 
-Average Order Value
+## 💡 Business Recommendations
 
-**🔍 Key Insights**
+- Improve pricing and supply chain efficiency for Furniture  
+- Focus marketing and inventory on high-margin Technology products  
+- Leverage Q4 seasonality with targeted campaigns  
+- Reduce return rates through better product descriptions and logistics  
 
-📌 Technology category has the highest profit margin
+---
 
-⚠ Furniture has low profitability despite high sales
+## 📸 Dashboard Preview
 
-📈 Sales peak in Q4 (Oct–Dec) indicating strong seasonality
+> *(Add screenshots of your Power BI dashboard here)*
 
-🧑 Consumer segment contributes the largest revenue share
-
-📦 Return rate ~6.5%, scope for optimization
-
-**💡 Business Recommendations**
-
-Optimize pricing and supply chain for Furniture
-
-Focus marketing on high-margin Technology products
-
-Leverage Q4 seasonality with targeted campaigns
-
-Improve return reduction strategies
-
-https://github.com/jayeshbkamble/amazon-store-sales-dashboard-powerbi/blob/main/amazon-store-sales-dashboard-powerbi.png
-
-**🙋 About Me**
-
-Aspiring Data Analyst skilled in Power BI, SQL, Python, and AI-assisted analytics, passionate about turning data into actionable insights.
-
-⭐ If you like this project, don’t forget to star the repository!
+Example:
