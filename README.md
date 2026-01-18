@@ -4,6 +4,23 @@ An end-to-end **Data Analytics & Business Intelligence project** built using **P
 
 ---
 
+## 📑 Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Business Problem](#-business-problem)
+- [Tools & Technologies](#-tools--technologies)
+- [Dataset Overview](#-dataset-overview)
+- [Key KPIs Tracked](#-key-kpis-tracked)
+- [Dashboard Features](#-dashboard-features)
+- [Key Insights](#-key-insights)
+- [Business Recommendations](#-business-recommendations)
+- [Dashboard Preview](#-dashboard-preview)
+- [Repository Structure](#-repository-structure)
+- [What I Learned](#-what-i-learned)
+- [Author & Contact](#-author--contact)
+
+---
+
 ## 🚀 Project Overview
 
 This project focuses on analyzing Amazon Store sales data to identify:
