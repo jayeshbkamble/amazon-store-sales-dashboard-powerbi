@@ -76,3 +76,9 @@ Leverage Q4 seasonality with targeted campaigns
 Improve return reduction strategies
 
 https://github.com/jayeshbkamble/amazon-store-sales-dashboard-powerbi/blob/main/amazon-store-sales-dashboard-powerbi.png
+
+**🙋 About Me**
+
+Aspiring Data Analyst skilled in Power BI, SQL, Python, and AI-assisted analytics, passionate about turning data into actionable insights.
+
+⭐ If you like this project, don’t forget to star the repository!
