@@ -74,3 +74,5 @@ Focus marketing on high-margin Technology products
 Leverage Q4 seasonality with targeted campaigns
 
 Improve return reduction strategies
+
+https://github.com/jayeshbkamble/amazon-store-sales-dashboard-powerbi/blob/main/amazon-store-sales-dashboard-powerbi.png
