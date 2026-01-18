@@ -58,14 +58,14 @@ The goal was to **diagnose root causes**, surface **actionable insights**, and e
 - ~5,900+ transactions  
 - Multiple years of sales data  
 - Key fields:
- - Sales
- - Profit
- - Category & Sub-Category
- - Region & State
- - Customer Segment
- - Ship Mode
- - Payment Mode
- - Return Status
+  - Sales
+  - Profit
+  - Category & Sub-Category
+  - Region & State
+  - Customer Segment
+  - Ship Mode
+  - Payment Mode
+  - Return Status
 
 ---
 
