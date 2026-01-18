@@ -116,8 +116,19 @@ The goal was to **diagnose root causes**, surface **actionable insights**, and e
 Aspiring Data Analyst with hands-on experience in **Power BI, SQL, Excel, and AI-assisted analytics**.  
 Passionate about solving real-world business problems using data.
 
-📌 Open to internships and entry-level Data Analyst opportunities.
+---
+
+## 👤 Author & Contact
+
+**Jayesh Kamble**  
+**Data Analyst**
+
+📧 **Email:** [jayeshbkamble@gmail.com](mailto:jayeshbkamble@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jayeshbkamble)
 
 ---
+
+💬 Feel free to connect with me for collaboration, feedback, or data analytics opportunities.
+
 
 ⭐ If you find this project useful, please **star the repository**!
