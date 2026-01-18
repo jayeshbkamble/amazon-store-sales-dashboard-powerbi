@@ -15,7 +15,6 @@ An end-to-end **Data Analytics & Business Intelligence project** built using **P
 - [Key Insights](#-key-insights)
 - [Business Recommendations](#-business-recommendations)
 - [Dashboard Preview](#-dashboard-preview)
-- [Repository Structure](#-repository-structure)
 - [What I Learned](#-what-i-learned)
 - [Author & Contact](#-author--contact)
 
