@@ -1,5 +1,5 @@
 # Amazon-Store-Sales-Dashboard-PowerBi
-📊 Amazon Store Sales Dashboard (AI-Powered)
+**📊 Amazon Store Sales Dashboard (AI-Powered)**
 
 **🚀 Project Overview**
 
